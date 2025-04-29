@@ -3,8 +3,7 @@
 model training using linear regression, and performance evaluation with regression metrics.**
 
 ### 📂 Dataset
-The dataset contains housing data with the following features: 
-  > click here to download dataset
+The dataset contains housing data with the following features: [click here to download dataset](https://)
 
 1. **Numerical Features:**
 * area, bedrooms, bathrooms, stories, parking
@@ -12,7 +11,7 @@ The dataset contains housing data with the following features:
 2. **Categorical Features:**
 * mainroad, guestroom, basement, hotwaterheating,airconditioning, prefarea, furnishingstatus
 
-33. **Target Variable:**
+3. **Target Variable:**
 * price
 
 ### Objective
@@ -32,11 +31,11 @@ To build a multiple linear regression model that accurately predicts house price
 * Trained a Linear Regression model
 * Evaluated using:
 
-* * Mean Absolute Error (MAE)
+  * Mean Absolute Error (MAE)
 
-* * Mean Squared Error (MSE)
+  * Mean Squared Error (MSE)
 
-* * R-squared (R² Score)
+  * R-squared (R² Score)
 
 * Model Interpretation
 
